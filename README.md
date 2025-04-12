@@ -12,5 +12,5 @@ Search: To search for objects based on specific queries.
 
 ________________________________________________
 
-* Target Browser: Web
+* Target Browser: Desktop
 * Developer Manual: [Final Deliverable - MET API](https://docs.google.com/document/d/1jfpP5pj-HUhcARSijsYKpHCbbnevOWKv9iLdBT38f2c/edit?usp=sharing)
