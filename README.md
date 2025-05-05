@@ -2,15 +2,15 @@
 ________________________________________________
 ## Description
 
-### An interactive website using The The Metropolitan Museum of Art (MET) Collection's API to allow users to explore the museum's collection.
+### Using The Met’s API, this interactive website is designed to explore the Asian Art Department. It will include detailed information about artworks, high-resolution images, and search/filter functionalities tailored to Asian art. 
 
-**Description:** The proposed system will leverage The Met's API to create an interactive website that allows users to explore the museum's collection. The system will provide detailed information about each artwork, high-resolution images, and the ability to search and filter based on various criteria. This will make it easier for users to discover and appreciate the vast array of art housed at The Met.
+**Description:** The Metropolitan Museum of Art’s Asian Art Department houses a rich and diverse collection of artworks from various Asian cultures and historical periods. However, many art enthusiasts, educators, and researchers (especially those who cannot visit the museum in person) lack convenient access to explore and interact with this vast and culturally significant collection. The goal is to solve this accessibility issue by creating an interactive and engaging platform that allows users to explore The Met’s Asian art collection, learn about these works, and discover new pieces of Asian art from any location.
 
 The app will allow users to:
-* Explore artworks by different criteria (e.g., artist, period, department).
-* View high-resolution images and detailed descriptions of artworks.
-* Perform searches to discover specific pieces or types of art.
-
+* Exploring Asian artworks by various criteria (e.g., region, period, material/medium).
+* Viewing high-resolution images and detailed descriptions of Asian artworks.
+* Performing searches to discover specific pieces or themes within Asian art.
+* Highlighting thematic collections/curated exhibits from the Asian Art Department.
 
 ________________________________________________
 
