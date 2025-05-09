@@ -1,0 +1,25 @@
+{
+  "name": "inst377---met-collection",
+  "version": "1.0.0",
+  "description": "MET Asian Art\r ## Description",
+  "type": "module",  
+  "main": "INST377 - MET.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glaraterpmail/INST377---MET-Collection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glaraterpmail/INST377---MET-Collection/issues"
+  },
+  "homepage": "https://github.com/glaraterpmail/INST377---MET-Collection#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.0.0"
+  }
+}
+
