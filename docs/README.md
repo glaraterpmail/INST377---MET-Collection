@@ -32,6 +32,7 @@ ________________________________________________
 The project's main directory includes:
 * `src/` → Source code for the application
 * `docs/` → Documentation files (including this `README.md`)
+* `node_modules/` → Modules, supabase
 * `package.json` → Project dependencies
 
 ## Installation 
