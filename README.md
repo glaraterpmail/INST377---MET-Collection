@@ -1,19 +1,15 @@
 # INST377---MET-Collection
 ## Gabrielle Lara
 ________________________________________________
-## Description
 
-<<<<<<< HEAD
 ### An interactive website using The The Metropolitan Museum of Art (MET) Collection's API to allow users to explore the museum's collection.
 ________________________________________________
 =======
 ### Using The Met’s API, this interactive website is designed to explore the Asian Art Department. It will include detailed information about artworks, high-resolution images, and search/filter functionalities tailored to Asian art. 
->>>>>>> 211529b8ec1d8305a6d4819912f4fe1c320add27
 
 **Description:** The Metropolitan Museum of Art’s Asian Art Department houses a rich and diverse collection of artworks from various Asian cultures and historical periods. However, many art enthusiasts, educators, and researchers (especially those who cannot visit the museum in person) lack convenient access to explore and interact with this vast and culturally significant collection. The goal is to solve this accessibility issue by creating an interactive and engaging platform that allows users to explore The Met’s Asian art collection, learn about these works, and discover new pieces of Asian art from any location.
 
-The app will allow users to:
-<<<<<<< HEAD
+## The app will allow users to:
 * Explore artworks by different criteria (e.g., artist, period, department).
 * View high-resolution images and detailed descriptions of artworks.
 * Perform searches to discover specific pieces or types of art.
@@ -23,7 +19,6 @@ The app will allow users to:
 * Performing searches to discover specific pieces or themes within Asian art.
 * Highlighting thematic collections/curated exhibits from the Asian Art Department.
 
->>>>>>> 211529b8ec1d8305a6d4819912f4fe1c320add27
 ________________________________________________
 
 * Target Browser: Desktop
