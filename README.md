@@ -31,10 +31,7 @@ ________________________________________________
 ## Project Structure
 The project's main directory includes:
 * `src/` → Source code for the application
-* `public/` → Static assets
 * `docs/` → Documentation files (including this `README.md`)
-* `config/` → Configuration files
-* `tests/` → Automated test scripts
 * `package.json` → Project dependencies
 
 ## Installation 
