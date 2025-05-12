@@ -28,10 +28,11 @@ ________________________________________________
 
 ## Project Structure
 The project's main directory includes:
-* `src/` → Source code for the application
 * `docs/` → Documentation files (including this `README.md`)
 * `node_modules/` → Modules, supabase
+* `vite/` → Project contents
 * `package.json` → Project dependencies
+* `vite.config.js` → Initialization
 
 ## Installation 
 ### **Prerequisites**
