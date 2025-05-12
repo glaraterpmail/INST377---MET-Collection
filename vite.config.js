@@ -1,8 +1,9 @@
 import { defineConfig } from 'vite';
 import vue from '@vitejs/plugin-vue';
+import path from 'path';
 
 export default defineConfig({
-  root: 'vite', // Set root directory based on project structure
+  root: path.resolve(__dirname, 'vite'), // Absolute path to root directory
   plugins: [vue()],
   server: {
     port: 3001, // Maintain port configuration
@@ -10,10 +11,10 @@ export default defineConfig({
     host: '127.0.0.1'
   },
   build: {
-    outDir: 'vite/build', 
+    outDir: path.resolve(__dirname, 'vite/build'), // Absolute path for build output
     emptyOutDir: true, // Clears previous builds
     rollupOptions: {
-      input: './index.html' 
+      input: path.resolve(__dirname, 'vite/index.html')
     }
   }
 });
