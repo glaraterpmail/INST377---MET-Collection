@@ -10,10 +10,10 @@ export default defineConfig({
     host: '127.0.0.1'
   },
   build: {
-    outDir: '../dist', // Moves build output outside "vite/"
+    outDir: 'vite/build', // Output files inside "vite/"
     emptyOutDir: true, // Clears previous builds
     rollupOptions: {
-      input: 'vite/INST377 - MET Home.html' // Replace with actual entry filename
+      input: 'vite/INST377 - MET Home.html' // Ensure correct entry file
     }
   }
 });
