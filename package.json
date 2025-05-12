@@ -30,5 +30,20 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0"
+  },
+  "vite": {
+    "root": "vite",
+    "build": {
+      "outDir": "vite/build",
+      "emptyOutDir": true,
+      "rollupOptions": {
+        "input": "vite/INST377 - MET Home.html"
+      }
+    },
+    "server": {
+      "port": 3001,
+      "strictPort": true,
+      "host": "127.0.0.1"
+    }
   }
 }
