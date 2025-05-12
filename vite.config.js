@@ -6,14 +6,14 @@ export default defineConfig({
   root: path.resolve(__dirname, 'vite'), // Absolute path to root directory
   plugins: [vue()],
   server: {
-    port: 3001, // Maintain port configuration
-    strictPort: true, // Prevent automatic port switching
+    port: 3001, 
+    strictPort: true, 
     host: '127.0.0.1'
   },
   build: {
-    outDir: path.resolve(__dirname, 'vite/build'), // Absolute path for build output
+    outDir: path.resolve(__dirname, 'vite/build'), 
     emptyOutDir: true, 
-    assetsInclude: ['**/*.css', '**/*.js']
+    assetsInclude: ['**/*.css', '**/*.js'],
     rollupOptions: {
       input: {
         main: path.resolve(__dirname, 'vite/index.html'),
