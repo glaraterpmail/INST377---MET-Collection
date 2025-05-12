@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/glaraterpmail/INST377---MET-Collection/issues"
   },
-  "homepage": "https://github.com/glaraterpmail/INST377---MET-Collection#readme",
+  "homepage": "https://github.com/glaraterpmail/INST377---MET-Collection/vite/INST377 - MET Home",
   "dependencies": {
     "@supabase/supabase-js": "^2.0.0",
     "dotenv": "^16.0.3",
