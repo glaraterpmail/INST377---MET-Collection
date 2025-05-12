@@ -14,7 +14,12 @@ export default defineConfig({
     outDir: path.resolve(__dirname, 'vite/build'), // Absolute path for build output
     emptyOutDir: true, // Clears previous builds
     rollupOptions: {
-      input: path.resolve(__dirname, 'vite/index.html')
+      input: {
+        main: path.resolve(__dirname, 'vite/index.html'),
+        browse: path.resolve(__dirname, 'vite/INST377 - MET Browse.html'),
+        help: path.resolve(__dirname, 'vite/INST377 - MET Help.html'),
+        about: path.resolve(__dirname, 'vite/INST377 - MET About.html'),
+      }
     }
   }
 });
