@@ -13,7 +13,6 @@ ________________________________________________
 * Explore artworks by different criteria (e.g., artist, period, department).
 * View high-resolution images and detailed descriptions of artworks.
 * Perform searches to discover specific pieces or types of art.
-=======
 * Exploring Asian artworks by various criteria (e.g., region, period, material/medium).
 * Viewing high-resolution images and detailed descriptions of Asian artworks.
 * Performing searches to discover specific pieces or themes within Asian art.
@@ -22,7 +21,6 @@ ________________________________________________
 ________________________________________________
 
 * Target Browser: Desktop
-(https://docs.google.com/document/d/1jfpP5pj-HUhcARSijsYKpHCbbnevOWKv9iLdBT38f2c/edit?usp=sharing)
 * Vercel: [Deploy MET](https://inst-377-met-collection-fhywot0yf-gabrielle-laras-projects.vercel.app)
 ________________________________________________
 
