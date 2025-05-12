@@ -13,7 +13,7 @@ export default defineConfig({
     outDir: 'vite/build', 
     emptyOutDir: true, // Clears previous builds
     rollupOptions: {
-      input: 'vite/INST377 - MET Home.html' 
+      input: 'vite/index.html' 
     }
   }
 });
