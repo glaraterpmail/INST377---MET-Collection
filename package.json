@@ -6,7 +6,7 @@
   "main": "INST377 - MET.js",
   "scripts": {
     "start": "echo 'No start script needed for a static site!'",
-    "build": "echo 'No build step needed!'",
+    "build": "vite build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
