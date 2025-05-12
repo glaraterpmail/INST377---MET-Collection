@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "MET Asian Art Collection",
   "type": "module",
-  "main": "INST377 - MET.js",
+  "main": "vite/index.html",
   "scripts": {
     "start": "echo 'No start script needed for a static site!'",
     "dev": "vite",
