@@ -21,7 +21,7 @@ ________________________________________________
 ________________________________________________
 
 * Target Browser: Desktop
-* Vercel: [Deploy MET]([https://inst-377-met-collection-fhywot0yf-gabrielle-laras-projects.vercel.app](https://inst-377-met-collection-h1zxbx67w-gabrielle-laras-projects.vercel.app/))
+* Vercel: [Deploy MET](https://inst-377-met-collection-h1zxbx67w-gabrielle-laras-projects.vercel.app/)
 ________________________________________________
 
 ## Developer Manual
