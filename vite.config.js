@@ -13,13 +13,16 @@ export default defineConfig({
   build: {
     outDir: path.resolve(__dirname, 'vite/build'), 
     emptyOutDir: true, 
-    assetsInclude: ['**/*.css', '**/*.js'],
+    assetsInclude: ['vite/src/**/*.css', 'vite/src/**/*.js'],
     rollupOptions: {
       input: {
         main: path.resolve(__dirname, 'vite/index.html'),
         browse: path.resolve(__dirname, 'vite/INST377 - MET Browse.html'),
         help: path.resolve(__dirname, 'vite/INST377 - MET Help.html'),
         about: path.resolve(__dirname, 'vite/INST377 - MET About.html'),
+      }
+    output: {
+        assetFileNames: 'assets/[name].[ext]' // Organizes built assets in an 'assets' folder
       }
     }
   }
