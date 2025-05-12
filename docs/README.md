@@ -31,15 +31,15 @@ The project's main directory includes:
 * `docs/` → Documentation files (including this `README.md`)
 * `node_modules/` → Modules, supabase
 * `vite/` → Project contents
-├── src/
-│   ├── INST377 - Browse.js
-│   ├── INST377 - MET.css
-│   ├── INST377 - MET.js
-├── INST377 - MET About.html
-├── INST377 - MET Browse.html
-├── INST377 - MET Help.html
-├── MET Logo.png
-├── index.html
+├── src/ <br>
+│   ├── INST377 - Browse.js <br>
+│   ├── INST377 - MET.css <br>
+│   ├── INST377 - MET.js <br>
+├── INST377 - MET About.html <br>
+├── INST377 - MET Browse.html <br>
+├── INST377 - MET Help.html <br>
+├── MET Logo.png <br>
+├── index.html <br>
 * `package.json` → Project dependencies
 * `vite.config.js` → Initialization
 
