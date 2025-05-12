@@ -12,7 +12,8 @@ export default defineConfig({
   },
   build: {
     outDir: path.resolve(__dirname, 'vite/build'), // Absolute path for build output
-    emptyOutDir: true, // Clears previous builds
+    emptyOutDir: true, 
+    assetsInclude: ['**/*.css', '**/*.js']
     rollupOptions: {
       input: {
         main: path.resolve(__dirname, 'vite/index.html'),
