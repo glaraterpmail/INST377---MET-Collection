@@ -30,7 +30,7 @@ ________________________________________________
 The project's main directory includes:
 * `docs/` → Documentation files (including this `README.md`)
 * `node_modules/` → Modules, supabase
-* `vite/` → Project contents
+* `vite/` → Project contents  <br>
 ├── src/ <br>
 │   ├── INST377 - Browse.js <br>
 │   ├── INST377 - MET.css <br>
